@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from 'react'
 import { store } from '@/lib/store'
 import { getTheme } from '@/lib/theme'
