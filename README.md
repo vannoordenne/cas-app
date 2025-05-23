@@ -1,4 +1,4 @@
-# Echo Rating Platform
+# CAS Student Rating Platform
 
 A Next.js application for rating and feedback between students and teachers.
 
@@ -50,7 +50,3 @@ Open [http://localhost:3000](http://localhost:3000) to see the application.
 ## Deployment
 
 This project is configured for deployment on Vercel. See the [Vercel documentation](https://vercel.com/docs) for more information.
-
-## License
-
-This project is licensed under the MIT License. 
